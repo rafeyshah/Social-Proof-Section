@@ -1,0 +1,95 @@
+body{
+    background: url(images/bg-pattern-top-desktop.svg) no-repeat, url(images/bg-pattern-bottom-desktop.svg) no-repeat top -18% right;
+    font: 15px 'Spartan',sans-serif;
+    color: hsl(303, 10%, 53%);
+    margin: 9% 13%;
+  
+}
+.T{
+    font: 700 49px/49px 'Spartan', sans-serif;
+    color: hsl(300, 43%, 22%);
+    width: 84%;
+    letter-spacing: -1px;
+}
+.Title{
+    width: 50%;
+}
+.t-des{
+    font: 500 16px/24px 'Spartan',sans-serif;
+    width: 79%;
+    letter-spacing: -1px;
+    margin-top: 2%;
+}
+
+.R{
+    border-radius: 9px;
+    padding: 18px;
+    background-color: hsl(300, 24%, 96%);
+    color: hsl(300, 43%, 22%);
+    font-weight: 700;
+    width: 100%;
+    font-size: 14px;
+    padding-left: 34px;
+
+    }
+.R2{
+    margin-left: 10%;
+}
+.R3{
+    margin-left: 21%;
+}
+span{
+    padding-left: 18px;
+}
+img{
+    height: 14px;
+}
+
+.flex{
+    display: flex;
+    width: 106%;
+}
+
+.pCards{
+    margin-right: 2%;
+    background-color: hsl(300, 43%, 22%);
+    border-radius: 7px;
+    padding:26px;
+    height: 100%;
+}
+
+.img1{
+    height: 45px;
+    border-radius: 100%;
+}
+
+.name{
+    font: 700 14px 'Spartan',sans-serif;
+    position: absolute;
+    color: white;
+}
+
+.ver{
+    position: relative;
+    font-size: 14px;
+    left: 63px;
+    top: -45px;
+    color:hsla(333, 80%, 67%, 0.603);
+    font-weight: 500;
+    margin-bottom: -11%;
+}
+
+.par{
+    color: white;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+}
+
+.c2{
+    margin-top: 30px;
+}
+
+.c3{
+    margin-top: 60px;
+}
